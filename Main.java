@@ -1,8 +1,8 @@
 public class Main {
     public static void main(String[] args) {
 
-        // StandardAlgorithmsTestCases.testFindMin();
-        // StandardAlgorithmsTestCases.testFindAvg();
+        StandardAlgorithmTest.testFindMin();
+        // StandardAlgorithmTestCases.testFindAvg();
         // StandardAlgorithmsTestCases.testFindMode();
         // StandardAlgorithmsTestCases.testSearchOne();
         // StandardAlgorithmsTestCases.testAllNegative();
